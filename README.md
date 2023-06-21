@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi, I'm Bogdan</h1>
-- 🌱 I’m currently learning **Front-End by using the Odin Project and I am looking forward to be a full-stack programmer**
+- 🌱 I’m currently learning Front-End by using the Odin Project and I am looking forward to be a full-stack programmer
 
 - 👨‍💻 All of my projects are available at [https://github.com/BogdanN780?tab=repositories](https://github.com/BogdanN780?tab=repositories)
 
-- 📫 How to reach me **gugilabogdan37@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me: gugilabogdan37@gmail.com</h3>
 <p align="left">
 </p>
 
